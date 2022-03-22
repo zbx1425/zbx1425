@@ -22,6 +22,6 @@ You can reach me by:
 - Discord (Nemo#3465, can be seen in the Minecraft Transit Railway server)
   
 And as a last resort, which you shouldn't really be using:
-- Contact github.com/satorimarch for relaying a message to my private SNS via QQ and WeChat
+- Contact [@satorimarch](github.com/satorimarch) for relaying a message to my private SNS via QQ and WeChat
   
-If in the unlikely scenario that none of the above gets to me, then it is safe for you to assume I am dead.
+In the unlikely scenario that none of the above gets to me, it is safe for you to assume I am dead.
