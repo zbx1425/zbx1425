@@ -1,7 +1,7 @@
 ### Greetings!
 
-- 🌱 A senior high school student, learning to program.  
-- 🔭 A railfan, a flight simmer, and I also enjoy OMSI quite a lot... Basically I am a huge fan in every kind of public transportation (except boat, currently).
+- 🌱 An undergraduate student, learning to program.  
+- 🔭 A railfan, a flight simmer, and I also played OMSI quite a lot... Basically a huge fan in every kind of public transportation (except boat, currently).
 - 🌏 Take a look at my website at www.zbx1425.cn .
 - 📫 Send me email if you want to reach me at support@zbx1425.cn .
 - 🔑 GPG public key signature: `217D 046A 5B23 5583 020E  40BA 304A 679A 4F13 40AD`
