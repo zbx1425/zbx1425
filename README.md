@@ -4,7 +4,7 @@
 - Railfan, flight simmer, also played OMSI quite a lot. Basically a huge fan in every kind of public transportation (except boat, currently).
 - 🌏 www.zbx1425.cn
 - 📫 support@zbx1425.cn
-- 🔑 PGP public key signature: `217D 046A 5B23 5583 020E  40BA 304A 679A 4F13 40AD`
+- 🔑 PGP public key: [8100A355E382F7B9](https://www.zbx1425.cn/self/zbx1425_2023_pub.asc) with fingerprint `F31F E46B 00CF 4CD6 BC79  B860 8100 A355 E382 F7B9`
 
 |![](https://github-readme-stats.vercel.app/api?username=zbx1425&show_icons=true)|![](https://github-readme-stats.vercel.app/api/top-langs?username=zbx1425&exclude_repo=zbx1425.github.io&hide=c&layout=compact)|
 | ------------- | ------------- |
