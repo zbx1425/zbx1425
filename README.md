@@ -9,7 +9,7 @@
 |![](https://github-readme-stats.vercel.app/api?username=zbx1425&show_icons=true)|![](https://github-readme-stats.vercel.app/api/top-langs?username=zbx1425&exclude_repo=zbx1425.github.io&hide=c&layout=compact)|
 | ------------- | ------------- |
 
-### Things I feel confident to chat about
+### Things I can talk a bit about in a chat
 [![My Skills](https://skillicons.dev/icons?i=cs,java,kotlin,rust,c&theme=light)](https://skillicons.dev)
 
 ### Some of the things I have tried
