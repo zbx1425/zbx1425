@@ -1,7 +1,7 @@
 ### Greetings
 
 - Undergraduate student  
-- Railfan, but I would say I am not that much of a railfan  
+- Railfan, but not that much of one  
 - 🌏 www.zbx1425.cn
 - 📫 support@zbx1425.cn
 - 🔑 [8100A355E382F7B9](https://www.zbx1425.cn/self/zbx1425_2023_pub.asc) (Fingerprint: `F31F E46B 00CF 4CD6 BC79  B860 8100 A355 E382 F7B9`)
@@ -20,4 +20,4 @@
 [![My Skills](https://skillicons.dev/icons?i=linux,arch,ubuntu,debian,mint,plan9&theme=light)](https://skillicons.dev) ~~("I use Arch btw")~~
 
 ### Contact
-Sending me emails is most preferred. If that will not reach me, as a last resort ask [@satorimarch](https://github.com/satorimarch) to relay a message. If that would not work either, then it is safe for you to conclude I had somehow died.  
+Sending me emails is most preferred.
